@@ -5,8 +5,8 @@ plugins {
 
 //apply from: './publish.gradle'
 //apply plugin: 'com.github.dcendents.android-maven'
-group = 'com.github.minini'
-version = '1.0.2'
+//group = 'com.github.minini'
+//version = '1.0.2'
 
 android {
     compileSdkVersion 31
